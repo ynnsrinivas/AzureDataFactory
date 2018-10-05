@@ -1,0 +1,12 @@
+{
+	"name": "IntegrationRuntimeADF-DB",
+	"properties": {
+		"type": "Managed",
+		"description": "Integration Runtime for ADF with Databricks Activity",
+		"typeProperties": {
+			"computeProperties": {
+				"location": "AutoResolve"
+			}
+		}
+	}
+}
